@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Berkay Sazak, Mobile Developer.  
 
-My current focus is developing mobile apps using Kotlin.
+My current focus is developing mobile apps using Kotlin and Swift.
 <!--
 **Berkayszk/Berkayszk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
