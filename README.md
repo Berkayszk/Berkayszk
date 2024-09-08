@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Berkay Sazak, Mobile Developer.  
+I'm Berkay Sazak, IOS Developer.  
 
 My current focus is developing mobile apps using Kotlin and Swift.
 <!--
